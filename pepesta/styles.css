@@ -100,3 +100,9 @@ h3 {
 .title:nth-child(4) {
   color: #FFFF;
 }
+
+.title2 {
+  position:bottom;
+left: 120px;
+    bottom:-390px;
+}
